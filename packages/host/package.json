@@ -1,0 +1,12 @@
+{
+  "name": "host",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "tsup",
+    "dev": "tsup --watch"
+  },
+  "dependencies": {
+    "remote": "workspace:^"
+  }
+}

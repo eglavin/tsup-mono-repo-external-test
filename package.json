@@ -1,0 +1,10 @@
+{
+  "name": "@eglavin/mono-pnpm",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "devDependencies": {
+    "tsup": "8.0.1",
+    "typescript": "5.3.3"
+  }
+}
